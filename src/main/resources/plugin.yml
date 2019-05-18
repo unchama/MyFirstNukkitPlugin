@@ -1,0 +1,6 @@
+name: MyFirstNukkitPlugin
+main: com.unchama.myfirstnukkitplugin.MyFirstNukkitPlugin
+version: "1.0-SNAPSHOT"
+author: unchama
+api: ["1.0.0"]
+load: POSTWORLD
